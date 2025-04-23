@@ -33,12 +33,12 @@ Minishell es un shell básico inspirado en bash, desarrollado como proyecto educ
 - Biblioteca readline (`sudo apt-get install libreadline-dev`)
 
 ### Compilación
-
+``bash
 $ make
-
+´´
 ### Ejecución
 ``bash
-./minishell
+$./minishell
 ``
 
 ## Bugs conocidos :bug:
@@ -88,12 +88,12 @@ Minishell is a basic shell inspired by bash, developed as an educational project
 
 ## Compilation
 ```bash
-make
-
+$make
+``
 ### Execution
 ```bash
-./minishell
-
+$./minishell
+``
 ## Known Bugs :bug:
 
 - **`Ctrl + \` (`SIGQUIT`)**: Shows `^\` character when it shouldn't appear
