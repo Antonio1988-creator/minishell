@@ -37,8 +37,9 @@ Minishell es un shell básico inspirado en bash, desarrollado como proyecto educ
 $ make
 
 ### Ejecución
-```bash
+``bash
 ./minishell
+``
 
 ## Bugs conocidos :bug:
 
