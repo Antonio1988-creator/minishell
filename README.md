@@ -33,8 +33,8 @@ Minishell es un shell básico inspirado en bash, desarrollado como proyecto educ
 - Biblioteca readline (`sudo apt-get install libreadline-dev`)
 
 ### Compilación
-```bash
-make
+
+$ make
 
 ### Ejecución
 ```bash
