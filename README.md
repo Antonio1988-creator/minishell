@@ -89,11 +89,11 @@ Minishell is a basic shell inspired by bash, developed as an educational project
 ## Compilation
 ```bash
 $make
-``
+```
 ### Execution
 ```bash
 $./minishell
-``
+```
 ## Known Bugs :bug:
 
 - **`Ctrl + \` (`SIGQUIT`)**: Shows `^\` character when it shouldn't appear
